@@ -25,8 +25,6 @@ public class OperatorExam {
 		
 		fahrenheit = (celsius * 9 / 5) + 32;
 		System.out.println(fahrenheit + "F");
-		
-		// 커밋 연습
 
 	}
 }
